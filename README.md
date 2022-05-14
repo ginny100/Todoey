@@ -1,8 +1,8 @@
+# Todoey ✓
+
 <p align="center">
   <img src="https://cdn2.iconfinder.com/data/icons/business-office-15/380/5-512.png" width=300>
 </p>
-
-# Todoey ✓
 
 ## My Goal
 
